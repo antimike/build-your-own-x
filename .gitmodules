@@ -49,3 +49,6 @@
 [submodule "parser/json-algorithm"]
 	path = parser/json-algorithm
 	url = https://github.com/cheery/json-algorithm
+[submodule "package-manager/tiny-package-manager"]
+	path = package-manager/tiny-package-manager
+	url = https://github.com/g-plane/tiny-package-manager
