@@ -10,3 +10,6 @@
 [submodule "git/rgit"]
 	path = git/rgit
 	url = https://github.com/JoelQ/rgit
+[submodule "git/gitlet"]
+	path = git/gitlet
+	url = https://github.com/maryrosecook/gitlet
