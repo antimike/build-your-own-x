@@ -25,3 +25,6 @@
 [submodule "compiler/the-super-tiny-compiler"]
 	path = compiler/the-super-tiny-compiler
 	url = https://github.com/jamiebuilds/the-super-tiny-compiler
+[submodule "interpreter/the-super-tiny-interpreter"]
+	path = interpreter/the-super-tiny-interpreter
+	url = https://github.com/keyz/the-super-tiny-interpreter
