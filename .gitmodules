@@ -52,3 +52,6 @@
 [submodule "package-manager/tiny-package-manager"]
 	path = package-manager/tiny-package-manager
 	url = https://github.com/g-plane/tiny-package-manager
+[submodule "blockchain/programming-blockchains"]
+	path = blockchain/programming-blockchains
+	url = https://github.com/openblockchains/programming-blockchains
