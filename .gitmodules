@@ -28,3 +28,6 @@
 [submodule "interpreter/the-super-tiny-interpreter"]
 	path = interpreter/the-super-tiny-interpreter
 	url = https://github.com/keyz/the-super-tiny-interpreter
+[submodule "compiler/markdown-compiler"]
+	path = compiler/markdown-compiler
+	url = https://github.com/beezwax/markdown-compiler
