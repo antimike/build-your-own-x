@@ -1,0 +1,3 @@
+[submodule "dotfiles-manager/nistow"]
+	path = dotfiles-manager/nistow
+	url = https://github.com/xmonader/nistow
