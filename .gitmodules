@@ -34,3 +34,6 @@
 [submodule "regex/build-your-own-regex"]
 	path = regex/build-your-own-regex
 	url = https://github.com/nadrane/build-your-own-regex
+[submodule "hashing/write-a-hash-table"]
+	path = hashing/write-a-hash-table
+	url = https://github.com/jamesroutley/write-a-hash-table
