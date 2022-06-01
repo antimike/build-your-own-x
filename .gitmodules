@@ -1,3 +1,6 @@
 [submodule "dotfiles-manager/nistow"]
 	path = dotfiles-manager/nistow
 	url = https://github.com/xmonader/nistow
+[submodule "bocker/bocker"]
+	path = docker/bocker
+	url = https://github.com/p8952/bocker
