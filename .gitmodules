@@ -4,3 +4,6 @@
 [submodule "bocker/bocker"]
 	path = docker/bocker
 	url = https://github.com/p8952/bocker
+[submodule "git/git-pastiche"]
+	path = git/git-pastiche
+	url = https://github.com/juretta/git-pastiche
