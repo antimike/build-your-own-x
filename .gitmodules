@@ -37,3 +37,6 @@
 [submodule "hashing/write-a-hash-table"]
 	path = hashing/write-a-hash-table
 	url = https://github.com/jamesroutley/write-a-hash-table
+[submodule "single-sign-on/simple-sso"]
+	path = single-sign-on/simple-sso
+	url = https://github.com/ankur-anand/simple-sso
