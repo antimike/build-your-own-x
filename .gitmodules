@@ -22,3 +22,6 @@
 [submodule "compiler/cradle"]
 	path = compiler/cradle
 	url = https://github.com/g-ford/cradle
+[submodule "compiler/the-super-tiny-compiler"]
+	path = compiler/the-super-tiny-compiler
+	url = https://github.com/jamiebuilds/the-super-tiny-compiler
