@@ -40,3 +40,6 @@
 [submodule "single-sign-on/simple-sso"]
 	path = single-sign-on/simple-sso
 	url = https://github.com/ankur-anand/simple-sso
+[submodule "cli-app/outside-cli"]
+	path = cli-app/outside-cli
+	url = https://github.com/vectordotdev/outside-cli
