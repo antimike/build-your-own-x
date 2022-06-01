@@ -7,3 +7,6 @@
 [submodule "git/git-pastiche"]
 	path = git/git-pastiche
 	url = https://github.com/juretta/git-pastiche
+[submodule "git/rgit"]
+	path = git/rgit
+	url = https://github.com/JoelQ/rgit
