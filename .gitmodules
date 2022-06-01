@@ -16,3 +16,6 @@
 [submodule "neural-net/cnn-from-scratch"]
 	path = neural-net/cnn-from-scratch
 	url = https://github.com/vzhou842/cnn-from-scratch
+[submodule "os/blog_os"]
+	path = os/blog_os
+	url = https://github.com/phil-opp/blog_os
