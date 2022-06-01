@@ -31,3 +31,6 @@
 [submodule "compiler/markdown-compiler"]
 	path = compiler/markdown-compiler
 	url = https://github.com/beezwax/markdown-compiler
+[submodule "regex/build-your-own-regex"]
+	path = regex/build-your-own-regex
+	url = https://github.com/nadrane/build-your-own-regex
