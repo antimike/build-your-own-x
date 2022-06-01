@@ -43,3 +43,6 @@
 [submodule "cli-app/outside-cli"]
 	path = cli-app/outside-cli
 	url = https://github.com/vectordotdev/outside-cli
+[submodule "decision-trees/learn_ml_by_coding"]
+	path = decision-trees/learn_ml_by_coding
+	url = https://github.com/lethalbrains/learn_ml_by_coding
