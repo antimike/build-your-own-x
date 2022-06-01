@@ -19,3 +19,6 @@
 [submodule "os/blog_os"]
 	path = os/blog_os
 	url = https://github.com/phil-opp/blog_os
+[submodule "compiler/cradle"]
+	path = compiler/cradle
+	url = https://github.com/g-ford/cradle
