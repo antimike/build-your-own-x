@@ -13,3 +13,6 @@
 [submodule "git/gitlet"]
 	path = git/gitlet
 	url = https://github.com/maryrosecook/gitlet
+[submodule "neural-net/cnn-from-scratch"]
+	path = neural-net/cnn-from-scratch
+	url = https://github.com/vzhou842/cnn-from-scratch
